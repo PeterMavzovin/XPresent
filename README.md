@@ -11,7 +11,7 @@
 ---
 
 ## ⚙️ Технологии
-- **Laravel 10**
+- **Laravel 12**
 - **PostgreSQL**
 - **Vue 3 + Inertia.js**
 - **TailwindCSS**
